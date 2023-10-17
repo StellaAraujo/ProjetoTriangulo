@@ -18,3 +18,5 @@ if ladoA < (ladoB + ladoC) and ladoB < (ladoA + ladoC) and ladoC < (ladoA + lado
         print('Classificação: Triângulo isósceles (possui 2 lados de mesma medida)')
 else:
     print(f'as medidas {ladoA}, {ladoB} e {ladoC} não formam um triângulo')
+
+#testeeeee
